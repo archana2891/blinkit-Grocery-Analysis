@@ -1,4 +1,5 @@
 #Blinkit Grocery Analysis
+
 Welcome to the Blinkit Grocery Analysis project!
 In this project, I conduct a detailed analysis of Blinkit's grocery sales and outlet performance using Power BI, based on a structured dataset.
 
@@ -87,7 +88,8 @@ Enabled business decision-making through a clear, visual-driven story.
 
 🤝 Contributions
 Feel free to fork this repository, raise issues, or suggest improvements!
-Contact->archanagautam2891@gmail.com
+
+Contact- archanagautam2891@gmail.com
 
 
 
